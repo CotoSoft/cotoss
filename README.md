@@ -14,3 +14,9 @@ Cotoss offers you a brand new ways to create unsense code like:
    position: 'over there';
 }
 ```
+
+```css
+.yourclass {
+   color: 'darkbluealmostblack';
+}
+```
