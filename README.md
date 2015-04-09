@@ -17,6 +17,6 @@ Cotoss offers you a brand new ways to create unsense code like:
 
 ```css
 .yourclass {
-   color: 'darkbluealmostblack';
+   color: 'dark blue almost black';
 }
 ```
