@@ -9,7 +9,8 @@ Cotoss offers you a brand new ways to create unsense code like:
 }
 ```
 or
-
+```css
 .yourclass {
    position: 'over there';
 }
+```
