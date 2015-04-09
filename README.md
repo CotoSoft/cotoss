@@ -5,7 +5,7 @@ Cotoss offers you a brand new ways to create unsense code like:
 
 ```css
 .yourclass {
-   display: 'mabybe';
+   display: 'maybe';
 }
 ```
 
