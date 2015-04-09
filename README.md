@@ -8,7 +8,7 @@ Cotoss offers you a brand new ways to create unsense code like:
    display: 'mabybe';
 }
 ```
-or
+
 ```css
 .yourclass {
    position: 'over there';
